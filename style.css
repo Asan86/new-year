@@ -1,0 +1,83 @@
+html{
+	background-color: #1A5B35;  
+}
+
+body{
+	position: relative;
+	width: 100%;
+	height: 100vh;  
+	display: flex;
+	flex-direction: column;
+	justify-content: center; 
+	text-align: center; 
+	margin: 0;
+}
+
+a{
+	display: none;
+}
+
+h1{
+	margin: 0;
+	color: #CEB076;
+}
+
+p{
+	font-family: 'Playfair Display', serif;
+	max-width: 662px;	 
+	margin: 0 auto;
+	padding: 20px;
+	color: #fff;
+	font-weight: 400;
+}
+
+span{ 
+	font-family: 'Playfair Display', serif;
+	color: #fff; 
+	font-weight: 700;
+} 
+
+.icons_1{
+	position: absolute;
+	width: 200px;
+	left: 0;
+	top: 20px;
+}
+
+.icons_2{
+	position: absolute;
+	width: 200px;
+	right: 0;
+	top: 0;
+}
+
+.icons_3{
+	position: absolute;
+	width: 200px;
+	right: 35%;
+	bottom: 15%;
+}
+
+.icons_4{
+	position: absolute;
+	width: 200px;
+	left: 43%;
+	bottom: 50px;
+}
+
+.icons_5{
+	position: absolute;
+	width: 200px;
+	left: 0;
+	bottom: 0;
+}
+
+.icons_6{
+	position: absolute;
+	width: 80px;
+	left: 10px;
+	bottom: 90px;
+}
+
+
+
